@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0D0D1E</color>
+    <color name="gold">#FFD700</color>
+    <color name="teal">#A5F3FC</color>
+    <color name="indigo">#818CF8</color>
+    <color name="green">#34D399</color>
+</resources>
