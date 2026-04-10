@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ZipMaster"
-include ':app'
+include(":app")
